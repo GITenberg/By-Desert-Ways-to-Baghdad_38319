@@ -1,0 +1,32 @@
+_repo: By-Desert-Ways-to-Baghdad_38319
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Wilkins, Louisa Jebb
+    aliases:
+    - Jebb, Louisa
+    - Wilkins, Mrs. Roland
+    - Jebb, L. (Louisa)
+    gutenberg_agent_id: '39393'
+    url: http://www.gutenberg.org/2009/agents/39393
+description: ''
+gutenberg_bookshelf: Travel
+gutenberg_issued: '2011-12-16'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '38319'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'DS'
+- !lcsh 'Iraq -- Description and travel'
+- !lcsh 'Syria -- Description and travel'
+tableOfContents: I. Brusa to Diarbekr -- II. Down the Tigris on goatskins -- III.
+  Baghdad to Damascus.
+title: By Desert Ways to Baghdad
+url: http://www.gutenberg.org/ebooks/38319
